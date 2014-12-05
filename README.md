@@ -1,10 +1,10 @@
 FC-USB-Tester-OLED-Backpack
 ===========================
-This is the source code for the USB Tester OLED Backpack 
+This is the source code for the USB Tester OLED Backpack. It lets you measure the current and voltage of a USB port or cable. This shows you the charging rate, and can help you figure out if cables or USB ports are not working well. 
 
-Which can be found at:
+This item can be purchased as a kit, a finished unit, or built yourself!
+
 https://www.tindie.com/shops/FriedCircuits/
-
 
 To compile this code you will need the following libraries:
 ===========================
@@ -43,4 +43,4 @@ CC BY-NC-SA
 
 ![CC BY-NC-SA](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
 
-Please contact me for commercial opportunities. 
+Please contact FriedCircuits for commercial opportunities. 
